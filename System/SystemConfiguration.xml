@@ -1,0 +1,14 @@
+﻿<UnderlyingSystem.Configuration
+  xmlns="http://yourcompany.com/underlyingsystem"
+  xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Controllers>
+    <Name>PLC1</Name>
+    <Type>1</Type>
+    <Properties>
+      <Name>State</Name>
+      <DataType>i=6</DataType>
+      <Value>0</Value>
+      <Writeable>false</Writeable>
+    </Properties>
+    </Controllers>
+</UnderlyingSystem.Configuration>

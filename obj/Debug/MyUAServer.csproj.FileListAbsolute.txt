@@ -1,0 +1,12 @@
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\obj\Debug\MyUAServer.csprojAssemblyReference.cache
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\obj\Debug\MyUAServer.csproj.CoreCompileInputs.cache
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\MyUAServer.exe.config
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\MyUAServer.exe
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\MyUAServer.pdb
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\UnifiedAutomation.UaBase.dll
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\UnifiedAutomation.UaServer.dll
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\UnifiedAutomation.UaBase.xml
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\bin\Debug\UnifiedAutomation.UaServer.xml
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\obj\Debug\MyUAServer.csproj.CopyComplete
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\obj\Debug\MyUAServer.exe
+C:\Users\mathias\source\repos\OPC_UA_Server_Client\MyUAServer\obj\Debug\MyUAServer.pdb
